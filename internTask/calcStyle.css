@@ -1,0 +1,30 @@
+body {
+	margin: 0;
+	font-family: Arial, sans-serif, monospace;
+}
+
+table {
+	text-align: center;
+}
+
+th {
+	background-color: mediumpurple;
+	color: paleturquoise;
+	padding: 20px;
+	border: 2px solid black ;
+}
+
+td {
+	padding: 20px;
+	border: 2px whitesmoke;
+	color: white;
+}
+.bg{
+	margin: 0;
+	padding: 0;
+	background-image: url("purple.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
